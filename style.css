@@ -1,29 +1,30 @@
-*{
-    margin:0px;
-    padding:0px;
-    box-sizing:border-box;
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
 }
 
-body{
-    background-color: #686868;
+body {
+  background-color: #686868;
+  padding-top: 6em;
 }
 
-
-.display{
-    background-color:teal;
-    max-width: 80%;
-    margin:auto;
-    text-align: center;
-    font-size:50px;
-    color:white;
+.display {
+  background-color: teal;
+  max-width: 80%;
+  margin: auto;
+  text-align: center;
+  font-size: 50px;
+  color: white;
 }
-h1{
-    padding-top:20px;
+#title {
+  padding-top: 20px;
 }
-h2{
-    margin-top:20px;
+#time {
+  margin-top: 20px;
 }
-h3{
-    margin-top:20px;
-    font-size:40px;
+#date {
+  margin-top: 20px;
+  font-size: 40px;
+  padding-bottom: 1em;
 }
